@@ -1,4 +1,4 @@
-# demo-js
+# lang-js
 
 # MDN
 
